@@ -1,24 +1,24 @@
 {
-  "name": "xayibogantr",
+  "name": "user0919 Fivem manager.",
   "version": "7.3.0",
-  "description": "fivem yönetim",
+  "description": "Fivem manager",
   "main": "server.js",
   "scripts": {
     "start": "node server/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xayibogantr/xayibogantr.git"
+    "url": "git+https://github.com/xuser0919/Fivem-manager-via-discord.git"
   },
-  "author": "xayibogantr#1234",
+  "author": "user0919#0919",
   "contributors": [
-    "xayibogantr (https://github.com/xayibogantr/)"
+    "xayibogantr (https://github.com/xuser0919/)"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xayibogantr/xayibogantr/issues"
+    "url": "https://github.com/xuser0919/xuser0919/issues"
   },
-  "homepage": "https://github.com/xayibogantr/xayibogantr",
+  "homepage": "https://github.com/xuser0919/Fivem-manager-via-discord",
   "dependencies": {
     "discord.js": ""
   },
