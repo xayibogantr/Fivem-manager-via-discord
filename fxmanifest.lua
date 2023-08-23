@@ -2,9 +2,9 @@
 fx_version "cerulean"
 games { "gta5" }
 
-author "xayibogantr"
-description "fivem yönetim"
-repository "https://github.com/xayibogantr/xayibogantr"
+author "xuser0919"
+description "Fivem manager"
+repository "https://github.com/xuser0919/Fivem-manager-via-discord"
 version "7.3.0"
 license "CC-BY-NC-SA-4.0"
 lua54 'yes'
