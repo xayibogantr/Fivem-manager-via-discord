@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    {% seo %}
+    {% include head-custom.html %}
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="inner">
+        <header>
+          <h1><a href="https://user0919.github.io/user0919/" style="text-decoration:none;color:#ffffff">user0919</a></h1>
+          <h2><a href="https://github.com/user0919/user0919">Github</a> | <a href="https://github.com/user0919/user0919/archive/refs/heads/djs.zip">Download</a> | <a href="/user0919/faq">FAQ</a> | <a href="/user0919/commands">Commands</a> | <a href="/user0919/config">Config</a> | <a href="/user0919/exports">Exports</a></h2>
+        </header>
+        <hr>
+        <section id="main_content">
+          {{ content }}
+        </section>
+
+        <footer>
+            <a href="https://github.com/user0919/user0919">Github</a> | <a href="/user0919/changelog">Changelog</a> | <a href="/user0919/contributing">Contributing</a><br>
+            user0919 is maintained by <a href="https://github.com/user0919">user0919</a><br>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,8 @@
+title: user0919
+
+remote_theme: user0919/tactile
+
+plugins:
+- jekyll-remote-theme
+
+include: contributing.md
